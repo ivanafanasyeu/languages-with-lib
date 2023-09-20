@@ -1,0 +1,11 @@
+{
+	"common": {
+		"sample": "Sample EN",
+		"nested": {
+			"nestedKey": "Nested EN"
+		}
+	},
+	"other": {
+		"text": "Other locale space EN"
+	}
+}
